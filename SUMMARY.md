@@ -17,8 +17,8 @@
 
 * [SMART CONTRACT](devlop/smart-contract.md)
 
-## Extras
+## info
 
-* [CONTRACT ADDRESS](extras/contract-address.md)
-* [ROADMAP](extras/roadmap.md)
-* [WEBSITE](extras/website.md)
+* [CONTRACT ADDRESS](info/contract-address.md)
+* [ROADMAP](info/roadmap.md)
+* [WEBSITE](info/website.md)
