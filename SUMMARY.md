@@ -19,5 +19,6 @@
 
 ## Extras
 
-* [WEBSITE](extras/website.md)
+* [CONTRACT ADDRESS](extras/contract-address.md)
 * [ROADMAP](extras/roadmap.md)
+* [WEBSITE](extras/website.md)
