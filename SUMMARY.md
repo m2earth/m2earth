@@ -2,11 +2,11 @@
 
 * [What is M2Earth](README.md)
 
-##
+## tokenomics
 
-* [TOKENOMICS](undefined/tokenomics.md)
-* [M2T](undefined/m2t.md)
-* [EXCHANGE M2T](undefined/exchange-m2t.md)
+* [TOKENOMICS](tokenomics/tokenomics.md)
+* [M2T](tokenomics/m2t.md)
+* [EXCHANGE M2T](tokenomics/exchange-m2t.md)
 
 ***
 
