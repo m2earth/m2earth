@@ -32,5 +32,5 @@ This feature implements a token burn strategy for M2Earth such that the supply o
 
 ### M2Earth <a href="#safeearn" id="safeearn"></a>
 
-In addition to the gains that **M2Earth** holders benefit from simply [HODL](https://coinmarketcap.com/alexandria/glossary/hodl)-ing the SafeMoon token, users get to earn more incentives with M2Earth. **M2Earth** is a **newly launched decentralized application** on the Binance Smart Chain network that allows **M2Earth holders to stake their M2Earth token (or convert them into M2T tokens) and automatically earn more M2T**
+In addition to the gains that **M2Earth** holders benefit from simply [HODL](https://coinmarketcap.com/alexandria/glossary/hodl)-ing the **M2Earth project** token, users get to earn more incentives with m2earth. **M2Earth** is a **newly launched decentralized application** on the Binance Smart Chain network that allows **M2Earth holders to stake their M2Earth token (or convert them into M2T tokens) and automatically earn more M2T**
 
