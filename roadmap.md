@@ -10,6 +10,10 @@
 
 ## 02/2022
 
+**Burned 45% of Total Supply**
+
+## 02/2022
+
 #### listing coinmarketcap  and CoinGecko
 
 ## Q1 2022

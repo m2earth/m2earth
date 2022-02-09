@@ -1,4 +1,3 @@
 # EXCHANGE M2T
 
-Decentralized platform for buying, selling and leasing projects M2Earth
-
+A decentralized platform for buying, selling and Staking at low fees
