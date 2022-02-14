@@ -5,8 +5,8 @@
 ## tokenomics
 
 * [TOKENOMICS](tokenomics/tokenomics.md)
-* [M2E](tokenomics/m2e.md)
-* [EXCHANGE M2E](tokenomics/exchange-m2e.md)
+* [M2E](tokenomics/m2t.md)
+* [EXCHANGE M2E](tokenomics/exchange-m2t.md)
 
 ***
 
