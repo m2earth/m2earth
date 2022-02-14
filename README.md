@@ -1,12 +1,12 @@
 # What is M2Earth
 
-> We have an area and every square meter has a m2t. Total land mass 148,940,000,000M2T
+> We have an area and every square meter has a **M2E**. Total land mass 148,940,000,000M2E
 >
-> M2Earth allows you to buy, sell and mortgage land via M2T and build real projects in the M2Earth platform and need NFTcomp to link the project to increase its trust
+> M2Earth allows you to buy, sell and mortgage land via M2E and build real projects in the M2Earth platform and need NFTcomp to link the project to increase its trust
 
-**relationship MT2 To NFTs**
+**relationship M2E To NFTs**
 
-M2T Token holders enjoy buying, selling, staking and Mint NFTs in the most powerful places in the world
+M2E Token holders enjoy buying, selling, staking and Mint NFTs in the most powerful places in the world
 
 ### NFT
 
