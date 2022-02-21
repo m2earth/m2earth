@@ -2,15 +2,15 @@
 
 ## 01/2022
 
-#### Creation of the idea of M2 Earth project
-
-## 01/2022
-
-#### The prototype of M2 Earth finished
+**Initiation (Website, Smart Contract Creation)**
 
 ## 02/2022
 
-**Burned 45% of Total Supply**
+**Locked 48% (1 year)**
+
+## 02/2022
+
+**Prelaunch Marketing**
 
 ## 02/2022
 
@@ -18,19 +18,19 @@
 
 ## Q1 2022
 
-#### Start of ICO
+**NFT Marketplace**
 
 ## Q2 2022
 
-#### 10.000 holders
+#### 2500 holders
 
 ## Q3 2022
 
-#### NFT Marketplace BY METACHINE
+**Wallet M2Earth**
 
 ## Q4 2022
 
-#### launch an app M2 Earth
+#### launch app M2 Earth _<mark style="color:purple;">**like google earth**</mark>_
 
 ## Q5 2022
 

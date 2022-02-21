@@ -4,7 +4,9 @@ description: M2TOKEN
 
 # M2E
 
-Land currency by number of land area 510,072,000,000 m 2 Buying, Selling and Staking The token holder has the ability to build his real project in the M2Earth world in the most beautiful places in the world and use your product and marketing through the EXCHANGE M2E decentralized platform Each M2Earth transaction charges a fee of 10%, so 5% of the fee is distributed to M2Earth holders, while the other 5% fee is split into two parts. (Binance coin) while the other half is automatically paired with BNB and added to the PancakeSwap liquidity pool. Through this mechanism, fans who hold the token are rewarded with fixed rewards, while those who sell their M2Earth tokens are discouraged from continued selling. In general, this stabilizes the price of the token and finances the liquidity of the project.
+Land currency by number of land area 510,072,000,000 m 2 Buying, Selling and Staking The token holder has the ability to build his real project in the M2Earth world in the most beautiful places in the world and use your product and marketing through the EXCHANGE M2E decentralized platform.
+
+&#x20;Each M2Earth transaction charges a fee of 10%, so 5% of the fee is distributed to M2Earth holders, while the other 5% fee is split into two parts. (Binance coin) while the other half is automatically paired with BNB and added to the PancakeSwap liquidity pool. Through this mechanism, fans who hold the token are rewarded with fixed rewards, while those who sell their M2Earth tokens are discouraged from continued selling. In general, this stabilizes the price of the token and finances the liquidity of the project.
 
 #### Static Rewards  <a href="#static-rewards" id="static-rewards"></a>
 

@@ -6,7 +6,7 @@
 
 **Of Each Transaction Added to Liquidity Pool  5%**
 
-&#x20;                                     **Burned                                         2%**
+****
 
 ****
 
