@@ -26,3 +26,4 @@
 ***
 
 * [Audit](audit.md)
+* [KYC](kyc.md)
