@@ -4,15 +4,15 @@
 
 **Initiation (Website, Smart Contract Creation)**
 
-## 02/2022
+## 03/2022
 
 **Locked 48% (1 year)**
 
-## 02/2022
+## 03/2022
 
 **Prelaunch Marketing**
 
-## 02/2022
+## 03/2022
 
 #### listing coinmarketcap  and CoinGecko
 
