@@ -22,7 +22,7 @@
 
 ## Q1 2022
 
-#### 2500 holders
+**Listing Exchanges**
 
 ## Q2 2022
 
