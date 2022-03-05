@@ -14,11 +14,11 @@
 
 ## 03/2022
 
-#### listing coinmarketcap  and CoinGecko
+**Mint NFTs**
 
 ## Q1 2022
 
-**NFT Marketplace**
+&#x20;**Presale Start**
 
 ## Q2 2022
 
