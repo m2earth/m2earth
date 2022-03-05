@@ -16,30 +16,30 @@
 
 **Mint NFTs**
 
-## Q1 2022
+## 03/ 2022
 
 &#x20;**Presale Start**
 
-## Q2 2022
+## Q1 2022
 
 #### 2500 holders
 
-## Q3 2022
+## Q2 2022
 
 **Wallet M2Earth**
 
-## Q4 2022
+## Q3 2022
 
 #### launch app M2 Earth _<mark style="color:purple;">**like google earth**</mark>_
 
-## Q5 2022
+## Q4 2022
 
 #### Launching a decentralized platform
 
-## Q6 2022
+## Q5 2022
 
 #### Launch Blokchain M2&#x20;
 
-## Q7 2022
+## Q6 2022
 
 #### Install real companies in app M2 Earth
