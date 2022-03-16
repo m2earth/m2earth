@@ -10,6 +10,7 @@
 
 ***
 
+* [NFTs Soil](nfts-soil.md)
 * [NFTs](nfts.md)
 * [NFTs comp](nfts-comp.md)
 * [ROADMAP](roadmap.md)
