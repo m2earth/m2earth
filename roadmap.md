@@ -18,7 +18,7 @@
 
 ## 03/ 2022
 
-&#x20;**coinhunter.cc VOTE**
+&#x20;**IEO Exchange**
 
 ## Q1 2022
 
