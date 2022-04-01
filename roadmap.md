@@ -18,7 +18,7 @@
 
 ## 03/ 2022
 
-&#x20;**Presale Start**
+&#x20;**coinhunter.cc VOTE**
 
 ## Q1 2022
 
